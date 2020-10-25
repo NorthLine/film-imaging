@@ -1,4 +1,4 @@
-.header{height:195px;background: #025393;}
+.header{height:195px;background: url('../img/headerbg.png');}
 .container{width:1000px;margin:auto;}
 .logo{height: 110px;background: url("../img/logo.png") no-repeat center;}
 
@@ -11,18 +11,18 @@
 	height: 45px;
 	line-height: 45px;
 	font-family: "Microsoft Yahei";
-	color: #025393;
+	color: #c9321d;
 	font-size: 18px;
 	text-decoration: none;
 	padding: 0 12px;
 }
-.nav ul li a:hover{background:#1DB9EC;color:#fff;}
+.nav ul li a:hover{background: url('../img/headerbg.png');color:#fff;}
 
 .banner{height:417px;width:100%;background: url("../img/banner.png") no-repeat center;}
 
 .contentA{height:710px;padding-top:20px;}
 
-.tit span{display:block;font-size:28px;font-family: "Microsoft Yahei";color: #025393;text-align:center;line-height:65px;}
+.tit span{display:block;font-size:28px;font-family: "Microsoft Yahei";color: #db432c;text-align:center;line-height:65px;}
 .tit label{
 	width: 570px;
 	line-height: 30px;
@@ -45,7 +45,7 @@
 	margin-right: 20px;
 	line-height:40px;
 	border-radius: 35px;
-	background: #025393;
+	background: #cf3921;
 	color: #fff;
 	font-size:18px;
 	font-family: "Microsoft Yahei";
@@ -134,7 +134,7 @@
 .ladyScroll  dt{margin:0 auto;width:210px;overflow:hidden;}
 .ladyScroll  img{display:block;width:210px;height:175px;}
 
-.contentE{height:180px;background:#161515;padding:20px 0;}
+.contentE{height:180px;padding:20px 0;background: url(../img/headerbg.png);}
 .xgyq{margin-top:30px;}
 .xgyq li{width: 262px;height: 60px;border: 4px solid #fff;text-align: center;float: left;margin-left:55px;line-height: 60px;}
 .xgyq li a{display: block;font-family: "Microsoft Yahei";font-size: 16px;text-decoration: none;color: #fff;}
@@ -237,7 +237,7 @@
 	position: absolute;
 	left: 0;
 	top: 0px;
-	border-bottom: 2px solid #1DB9EC;
+	border-bottom: 2px solid #e6482e;
 	color: #323335;
 	font-weight: normal;
 }
